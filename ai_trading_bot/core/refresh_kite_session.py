@@ -28,14 +28,16 @@ from urllib.parse import urlparse, parse_qs
 import requests  # type: ignore
 
 
-from ai_trading_bot.core.config import BASE_DIR
+
+# Patch: Set BASE_DIR to project root (parent of 'core')
+from pathlib import Path
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 SESS_PATH = BASE_DIR / "secrets" / "kite_session.json"
 
-
 def _load_env_file():
     try:
-        env_path = BASE_DIR / ".env"
+        env_path = BASE_DIR / "environment" / ".env"
         if env_path.exists():
             for line in env_path.read_text().splitlines():
                 line = line.strip()

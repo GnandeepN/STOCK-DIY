@@ -47,12 +47,14 @@ except Exception:
     OrderRequest = None  # type: ignore
 
 
-BASE_DIR = Path(__file__).resolve().parent
+# Correctly define BASE_DIR as the project root
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 
 def _load_env_file():
     try:
-        env_path = BASE_DIR / ".env"
+        # Load .env from the environment directory at the project root
+        env_path = BASE_DIR / "environment" / ".env"
         if env_path.exists():
             for line in env_path.read_text().splitlines():
                 line = line.strip()
@@ -157,7 +159,7 @@ def main() -> int:
                 return 2
         if args.paper:
             try:
-                from brokers import PaperBroker
+                from ai_trading_bot.brokers import PaperBroker
                 broker = PaperBroker()
             except Exception:
                 broker = None
@@ -170,7 +172,7 @@ def main() -> int:
             # Help the user by sending the login URL via Telegram when access_token is missing
             try:
                 from kiteconnect import KiteConnect
-                from notify import send_message
+                from ai_trading_bot.core.notify import send_message
                 import os as _os
                 if "login URL" in str(e) or "access_token" in str(e):
                     _api = _os.getenv("KITE_API_KEY", "")
@@ -189,7 +191,7 @@ def main() -> int:
     # Optional reconciliation of OPEN trades (e.g., when user cancelled in app)
     if args.reconcile and broker is not None and not args.paper:
         try:
-            from reconcile_trades import reconcile as _reconcile
+            from ai_trading_bot.core.reconcile_trades import reconcile as _reconcile
             _reconcile(dry=False, broker=broker)
         except Exception:
             print("Reconcile failed; continuing without reconciliation.")
@@ -201,7 +203,7 @@ def main() -> int:
         if not ok:
             print(f"Circuit breaker active: {why}")
             try:
-                from notify import send_message
+                from ai_trading_bot.core.notify import send_message
                 send_message(f"Circuit breaker active: {why}. Halting entries today.")
             except Exception:
                 pass
@@ -290,7 +292,7 @@ def main() -> int:
         # Enforce max concurrent positions and daily caps/cooldown (LIVE only)
         if args.live:
             # Lazy import to avoid circular
-            from orders_db import get_open_trades
+            from ai_trading_bot.core.orders_db import get_open_trades
             if len(get_open_trades()) >= rules.max_concurrent:
                 print(f"SKIP: max concurrent trades reached ({rules.max_concurrent}).")
                 break
@@ -424,6 +426,7 @@ def main() -> int:
                 ))
                 print(f"REJECTED: {ticker} {side} x{qty} @~{price} [{exch}:{tsym}]")
                 try:
+                    from ai_trading_bot.core.notify import send_message
                     send_message(f"Thanks. Rejected ❌ {side} {ticker} x{qty} @≈{price}. Not placing order.")
                 except Exception:
                     pass
@@ -431,6 +434,7 @@ def main() -> int:
 
             # Approved — notify before placing
             try:
+                from ai_trading_bot.core.notify import send_message
                 send_message(f"Thanks. Approved ✅ {side} {ticker} x{qty} @≈{price} [{product}]. Placing order…")
             except Exception:
                 pass
@@ -446,6 +450,7 @@ def main() -> int:
                     ))
                     print(f"REJECTED (preflight): {ticker} {side} x{qty} {why_pf}")
                     try:
+                        from ai_trading_bot.core.notify import send_message
                         send_message(f"Rejected (preflight) ❌ {side} {ticker} x{qty} @≈{price} [{product}] → {why_pf}")
                     except Exception:
                         pass
@@ -469,6 +474,7 @@ def main() -> int:
         if error:
             print(f"{status}: {ticker} {side} x{qty} @~{price} [{exch}:{tsym}] error={error}")
             try:
+                from ai_trading_bot.core.notify import send_message
                 send_message(f"Order error ⚠️ {side} {ticker} x{qty} @≈{price} [{product}] → {error}")
             except Exception:
                 pass
@@ -484,6 +490,7 @@ def main() -> int:
             print(f"OPEN: trade#{trade_id} {ticker} {side} x{qty} @~{price} SL={sl} TP={tp}")
             placed += 1
             try:
+                from ai_trading_bot.core.notify import send_message
                 send_message(f"Order placed ✅ {side} {ticker} x{qty} @≈{price} [{product}] id={order_id}")
             except Exception:
                 pass

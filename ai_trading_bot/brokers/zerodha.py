@@ -23,7 +23,9 @@ class ZerodhaBroker(BrokerBase):
         # Attempt to load .env if env vars are missing
         def _load_env_file():
             try:
-                env_path = Path(__file__).resolve().parent.parent / ".env"
+                # Always load from project root: environment/.env
+                base_dir = Path(__file__).resolve().parent.parent.parent
+                env_path = base_dir / "environment" / ".env"
                 if env_path.exists():
                     for line in env_path.read_text().splitlines():
                         line = line.strip()

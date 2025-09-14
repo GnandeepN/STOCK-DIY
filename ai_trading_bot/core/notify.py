@@ -34,7 +34,7 @@ def _env(key: str) -> Optional[str]:
     if val:
         return val
     try:
-        env_path = BASE_DIR / ".env"
+        env_path = BASE_DIR / "environment" / ".env"
         if env_path.exists():
             for line in env_path.read_text().splitlines():
                 line = line.strip()

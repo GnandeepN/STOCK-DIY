@@ -18,6 +18,10 @@ distributed>=2024.1.0
 
 # Logging & utilities
 loguru>=0.7.0
+pytz>=2023.3
+
+# Broker Integration
+kiteconnect>=4.0.0
 
 # Optional (if you want charts/reports)
 matplotlib>=3.7.0
