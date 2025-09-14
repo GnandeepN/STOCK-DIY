@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/99fccfc93d324ca3b3ca7af2f8467e09/artifacts
+end_time: 1757832934746
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 99fccfc93d324ca3b3ca7af2f8467e09
+run_name: HDFCAMC.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757832934730
+status: 3
+tags: []
+user_id: gnandeepnarra

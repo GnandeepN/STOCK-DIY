@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/81d17a51e5cb4e6696a542018a44323f/artifacts
+end_time: 1757833773707
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 81d17a51e5cb4e6696a542018a44323f
+run_name: IRCTC.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833773692
+status: 3
+tags: []
+user_id: gnandeepnarra

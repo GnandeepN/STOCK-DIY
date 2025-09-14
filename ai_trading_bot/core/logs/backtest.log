@@ -1,0 +1,12 @@
+2025-09-14 02:26:14 [INFO] backtest: ==== Backtest start ====
+2025-09-14 02:26:14 [INFO] backtest: Universe: 121 tickers, model=lgbm, retrain_freq=20, fast=True
+2025-09-14 02:34:34 [INFO] backtest: Saved summary → /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/ai_trading_bot/core/reports/backtest_walkforward_summary.csv
+2025-09-14 02:34:34 [INFO] backtest: ==== Backtest done ====
+2025-09-14 02:35:51 [INFO] backtest: ==== Backtest start ====
+2025-09-14 02:35:51 [INFO] backtest: Universe: 121 tickers, model=lgbm, retrain_freq=20, fast=True
+2025-09-14 02:36:31 [INFO] backtest: Saved summary → /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/ai_trading_bot/core/reports/backtest_walkforward_summary.csv
+2025-09-14 02:36:31 [INFO] backtest: ==== Backtest done ====
+2025-09-14 03:40:37 [INFO] backtest: ==== Backtest start ====
+2025-09-14 03:40:37 [INFO] backtest: Universe: 121 tickers, model=lgbm, retrain_freq=20, fast=True
+2025-09-14 03:41:13 [INFO] backtest: Saved summary → /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/ai_trading_bot/core/reports/backtest_walkforward_summary.csv
+2025-09-14 03:41:13 [INFO] backtest: ==== Backtest done ====

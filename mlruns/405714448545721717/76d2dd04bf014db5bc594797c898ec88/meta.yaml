@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/76d2dd04bf014db5bc594797c898ec88/artifacts
+end_time: 1757833535614
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 76d2dd04bf014db5bc594797c898ec88
+run_name: KOTAKBANK.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833535596
+status: 3
+tags: []
+user_id: gnandeepnarra

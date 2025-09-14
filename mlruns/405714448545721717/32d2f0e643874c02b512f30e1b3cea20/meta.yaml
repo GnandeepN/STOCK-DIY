@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/32d2f0e643874c02b512f30e1b3cea20/artifacts
+end_time: 1757835057776
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 32d2f0e643874c02b512f30e1b3cea20
+run_name: NAVINFLUOR.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757835057766
+status: 3
+tags: []
+user_id: gnandeepnarra

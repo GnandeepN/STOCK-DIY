@@ -1,0 +1,10 @@
+{
+  "n_estimators": 500,
+  "learning_rate": 0.1186430036074126,
+  "num_leaves": 49,
+  "subsample": 0.8740741239715583,
+  "colsample_bytree": 0.9014568187822932,
+  "random_state": 42,
+  "n_jobs": -1,
+  "verbosity": -1
+}

@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/caf89ce68c3b4903833c04541706f72b/artifacts
+end_time: 1757835012713
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: caf89ce68c3b4903833c04541706f72b
+run_name: MRF.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757835012703
+status: 3
+tags: []
+user_id: gnandeepnarra

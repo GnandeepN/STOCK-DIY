@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/6ba482c8b3e14d848a4051cfd0cf101d/artifacts
+end_time: 1757832987050
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 6ba482c8b3e14d848a4051cfd0cf101d
+run_name: UPL.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757832987035
+status: 3
+tags: []
+user_id: gnandeepnarra

@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/333450c6870a4901a067fe444974eeed/artifacts
+end_time: 1757833498153
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 333450c6870a4901a067fe444974eeed
+run_name: CIPLA.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757833498135
+status: 3
+tags: []
+user_id: gnandeepnarra

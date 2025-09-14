@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/c512069b9f8a4739b2987be63b07bf4b/artifacts
+end_time: 1757834228205
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: c512069b9f8a4739b2987be63b07bf4b
+run_name: ZYDUSLIFE.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757834228190
+status: 3
+tags: []
+user_id: gnandeepnarra

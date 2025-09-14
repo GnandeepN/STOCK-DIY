@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/8076548c53644687809049eed19e2ae5/artifacts
+end_time: 1757835109921
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 8076548c53644687809049eed19e2ae5
+run_name: HEROMOTOCO.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757835109911
+status: 3
+tags: []
+user_id: gnandeepnarra

@@ -1,4 +1,0 @@
-ticker,intent,product,qty,price_hint,reason
-BAJAJ-AUTO.NS,BUY,MIS,1,8999.5,low confidence
-MARICO.NS,BUY,MIS,13,734.55,low confidence
-MRF.NS,BUY,MIS,0,146570.0,low confidence;cap_veto

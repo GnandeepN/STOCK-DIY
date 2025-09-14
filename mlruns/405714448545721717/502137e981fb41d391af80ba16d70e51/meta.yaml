@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/502137e981fb41d391af80ba16d70e51/artifacts
+end_time: 1757832653264
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 502137e981fb41d391af80ba16d70e51
+run_name: TORNTPHARM.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757832653249
+status: 3
+tags: []
+user_id: gnandeepnarra

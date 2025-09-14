@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/2ef5f044bad34a619e8e37afa9a74400/artifacts
+end_time: 1757834795141
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 2ef5f044bad34a619e8e37afa9a74400
+run_name: TATAMOTORS.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757834795132
+status: 3
+tags: []
+user_id: gnandeepnarra

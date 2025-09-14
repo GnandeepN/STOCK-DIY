@@ -1,0 +1,3 @@
+ticker,intent,product,qty,price_hint,reason
+PVRINOX.NS,BUY,MIS,8,1120.8,"conf 0.735529230855339≥0.7, pullback → MIS"
+ASIANPAINT.NS,BUY,MIS,3,2546.3,low confidence

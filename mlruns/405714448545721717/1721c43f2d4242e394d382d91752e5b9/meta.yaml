@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/1721c43f2d4242e394d382d91752e5b9/artifacts
+end_time: 1757832238221
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 1721c43f2d4242e394d382d91752e5b9
+run_name: SBICARD.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757832238205
+status: 3
+tags: []
+user_id: gnandeepnarra

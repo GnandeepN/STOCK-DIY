@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/4dbbf34f4097461699f520634aeec696/artifacts
+end_time: 1757832708342
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 4dbbf34f4097461699f520634aeec696
+run_name: COFORGE.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757832708326
+status: 3
+tags: []
+user_id: gnandeepnarra

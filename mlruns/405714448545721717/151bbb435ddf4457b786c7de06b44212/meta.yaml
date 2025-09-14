@@ -1,0 +1,14 @@
+artifact_uri: /Users/gnandeepnarra/Documents/STOCK-DIY/ai-trading-bot/mlruns/405714448545721717/151bbb435ddf4457b786c7de06b44212/artifacts
+end_time: 1757832340877
+entry_point_name: ''
+experiment_id: '405714448545721717'
+lifecycle_stage: active
+run_id: 151bbb435ddf4457b786c7de06b44212
+run_name: TITAN.NS_lgbm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757832340862
+status: 3
+tags: []
+user_id: gnandeepnarra
