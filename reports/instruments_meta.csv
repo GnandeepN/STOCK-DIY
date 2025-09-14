@@ -1,0 +1,2 @@
+ticker,shortable,band_low,band_high,freeze_qty,tick_size
+ABC.NS,False,90,110,100,0.05

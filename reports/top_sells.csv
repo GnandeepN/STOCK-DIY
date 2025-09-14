@@ -1,0 +1,1 @@
+ticker,last_date_x,model_date,close,proba_up,calibrated,calibration_method,threshold,trend_ok,signal,stop_loss,take_profit,atr,rsi,avg_volume_20,sector,industry,rr,breakout_ok,vol_spike,pullback_ok,mtf_trend_ok,atr_close_ratio,gap_ok,regime_ok,recommended_product,recommended_reason,cagr,max_dd,winrate,n_days,n_trades,last_date_y,profit_pct

@@ -1,0 +1,5 @@
+# tickers_banknifty.py
+TICKERS = [
+    "HDFCBANK.NS", "ICICIBANK.NS", "AXISBANK.NS", "KOTAKBANK.NS",
+    "SBIN.NS", "INDUSINDBK.NS", "BANKBARODA.NS", "PNB.NS"
+]

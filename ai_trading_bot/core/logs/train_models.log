@@ -1,0 +1,243 @@
+2025-09-14 01:20:59 [WARNING] train_models: BSE.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:20:59 [INFO] train_models: ✅ BSE.NS: lgbm acc=0.533 thr=0.70 (train=1195, test=30) saved=BSE_NS.joblib
+2025-09-14 01:21:02 [WARNING] train_models: INDUSINDBK.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:02 [INFO] train_models: ✅ INDUSINDBK.NS: lgbm acc=0.533 thr=0.48 (train=1195, test=30) saved=INDUSINDBK_NS.joblib
+2025-09-14 01:21:05 [WARNING] train_models: MPHASIS.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:05 [INFO] train_models: ✅ MPHASIS.NS: lgbm acc=0.367 thr=0.52 (train=1195, test=30) saved=MPHASIS_NS.joblib
+2025-09-14 01:21:07 [WARNING] train_models: BAJAJFINSV.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:07 [INFO] train_models: ✅ BAJAJFINSV.NS: lgbm acc=0.467 thr=0.69 (train=1195, test=30) saved=BAJAJFINSV_NS.joblib
+2025-09-14 01:21:09 [WARNING] train_models: PVRINOX.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:09 [INFO] train_models: ✅ PVRINOX.NS: lgbm acc=0.300 thr=0.67 (train=640, test=30) saved=PVRINOX_NS.joblib
+2025-09-14 01:21:11 [WARNING] train_models: ASTRAL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:11 [INFO] train_models: ✅ ASTRAL.NS: lgbm acc=0.433 thr=0.53 (train=1195, test=30) saved=ASTRAL_NS.joblib
+2025-09-14 01:21:14 [WARNING] train_models: BRITANNIA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:14 [INFO] train_models: ✅ BRITANNIA.NS: lgbm acc=0.433 thr=0.47 (train=1195, test=30) saved=BRITANNIA_NS.joblib
+2025-09-14 01:21:17 [WARNING] train_models: IDEA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:17 [INFO] train_models: ✅ IDEA.NS: lgbm acc=0.400 thr=0.57 (train=1195, test=30) saved=IDEA_NS.joblib
+2025-09-14 01:21:19 [WARNING] train_models: LAURUSLABS.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:19 [INFO] train_models: ✅ LAURUSLABS.NS: lgbm acc=0.533 thr=0.70 (train=1195, test=30) saved=LAURUSLABS_NS.joblib
+2025-09-14 01:21:22 [WARNING] train_models: NMDC.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:22 [INFO] train_models: ✅ NMDC.NS: lgbm acc=0.433 thr=0.60 (train=1195, test=30) saved=NMDC_NS.joblib
+2025-09-14 01:21:25 [WARNING] train_models: TATAELXSI.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:25 [INFO] train_models: ✅ TATAELXSI.NS: lgbm acc=0.467 thr=0.70 (train=1195, test=30) saved=TATAELXSI_NS.joblib
+2025-09-14 01:21:28 [WARNING] train_models: MARICO.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:28 [INFO] train_models: ✅ MARICO.NS: lgbm acc=0.600 thr=0.58 (train=1195, test=30) saved=MARICO_NS.joblib
+2025-09-14 01:21:30 [WARNING] train_models: SRF.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:30 [INFO] train_models: ✅ SRF.NS: lgbm acc=0.600 thr=0.52 (train=1195, test=30) saved=SRF_NS.joblib
+2025-09-14 01:21:33 [WARNING] train_models: BHARTIARTL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:33 [INFO] train_models: ✅ BHARTIARTL.NS: lgbm acc=0.533 thr=0.68 (train=1195, test=30) saved=BHARTIARTL_NS.joblib
+2025-09-14 01:21:36 [WARNING] train_models: JSWSTEEL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:36 [INFO] train_models: ✅ JSWSTEEL.NS: lgbm acc=0.533 thr=0.65 (train=1195, test=30) saved=JSWSTEEL_NS.joblib
+2025-09-14 01:21:38 [WARNING] train_models: TITAN.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:38 [INFO] train_models: ✅ TITAN.NS: lgbm acc=0.467 thr=0.70 (train=1195, test=30) saved=TITAN_NS.joblib
+2025-09-14 01:21:41 [WARNING] train_models: ONGC.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:41 [INFO] train_models: ✅ ONGC.NS: lgbm acc=0.433 thr=0.61 (train=1195, test=30) saved=ONGC_NS.joblib
+2025-09-14 01:21:44 [WARNING] train_models: YESBANK.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:44 [INFO] train_models: ✅ YESBANK.NS: lgbm acc=0.367 thr=0.48 (train=1195, test=30) saved=YESBANK_NS.joblib
+2025-09-14 01:21:47 [WARNING] train_models: COALINDIA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:47 [INFO] train_models: ✅ COALINDIA.NS: lgbm acc=0.300 thr=0.70 (train=1195, test=30) saved=COALINDIA_NS.joblib
+2025-09-14 01:21:49 [WARNING] train_models: OFSS.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:49 [INFO] train_models: ✅ OFSS.NS: lgbm acc=0.600 thr=0.50 (train=1195, test=30) saved=OFSS_NS.joblib
+2025-09-14 01:21:52 [WARNING] train_models: NAVINFLUOR.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:52 [INFO] train_models: ✅ NAVINFLUOR.NS: lgbm acc=0.700 thr=0.67 (train=1195, test=30) saved=NAVINFLUOR_NS.joblib
+2025-09-14 01:21:55 [WARNING] train_models: PNB.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:55 [INFO] train_models: ✅ PNB.NS: lgbm acc=0.633 thr=0.49 (train=1195, test=30) saved=PNB_NS.joblib
+2025-09-14 01:21:58 [WARNING] train_models: POWERGRID.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:21:58 [INFO] train_models: ✅ POWERGRID.NS: lgbm acc=0.433 thr=0.45 (train=1195, test=30) saved=POWERGRID_NS.joblib
+2025-09-14 01:22:00 [WARNING] train_models: ADANIPORTS.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:00 [INFO] train_models: ✅ ADANIPORTS.NS: lgbm acc=0.533 thr=0.67 (train=1195, test=30) saved=ADANIPORTS_NS.joblib
+2025-09-14 01:22:03 [WARNING] train_models: COLPAL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:03 [INFO] train_models: ✅ COLPAL.NS: lgbm acc=0.433 thr=0.54 (train=1195, test=30) saved=COLPAL_NS.joblib
+2025-09-14 01:22:06 [WARNING] train_models: DIVISLAB.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:06 [INFO] train_models: ✅ DIVISLAB.NS: lgbm acc=0.500 thr=0.69 (train=1195, test=30) saved=DIVISLAB_NS.joblib
+2025-09-14 01:22:08 [WARNING] train_models: HDFCAMC.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:08 [INFO] train_models: ✅ HDFCAMC.NS: lgbm acc=0.533 thr=0.69 (train=1195, test=30) saved=HDFCAMC_NS.joblib
+2025-09-14 01:22:12 [WARNING] train_models: LT.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:12 [INFO] train_models: ✅ LT.NS: lgbm acc=0.567 thr=0.58 (train=1195, test=30) saved=LT_NS.joblib
+2025-09-14 01:22:15 [WARNING] train_models: UPL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:15 [INFO] train_models: ✅ UPL.NS: lgbm acc=0.500 thr=0.69 (train=1195, test=30) saved=UPL_NS.joblib
+2025-09-14 01:22:18 [WARNING] train_models: VOLTAS.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:18 [INFO] train_models: ✅ VOLTAS.NS: lgbm acc=0.600 thr=0.69 (train=1195, test=30) saved=VOLTAS_NS.joblib
+2025-09-14 01:22:20 [WARNING] train_models: TECHM.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:20 [INFO] train_models: ✅ TECHM.NS: lgbm acc=0.633 thr=0.70 (train=1195, test=30) saved=TECHM_NS.joblib
+2025-09-14 01:22:23 [WARNING] train_models: OBEROIRLTY.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:23 [INFO] train_models: ✅ OBEROIRLTY.NS: lgbm acc=0.500 thr=0.70 (train=1195, test=30) saved=OBEROIRLTY_NS.joblib
+2025-09-14 01:22:27 [WARNING] train_models: ITC.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:27 [INFO] train_models: ✅ ITC.NS: lgbm acc=0.633 thr=0.69 (train=1195, test=30) saved=ITC_NS.joblib
+2025-09-14 01:22:29 [WARNING] train_models: MRF.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:29 [INFO] train_models: ✅ MRF.NS: lgbm acc=0.667 thr=0.67 (train=1195, test=30) saved=MRF_NS.joblib
+2025-09-14 01:22:32 [WARNING] train_models: GODREJPROP.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:32 [INFO] train_models: ✅ GODREJPROP.NS: lgbm acc=0.567 thr=0.54 (train=1195, test=30) saved=GODREJPROP_NS.joblib
+2025-09-14 01:22:35 [WARNING] train_models: INDUSTOWER.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:35 [INFO] train_models: ✅ INDUSTOWER.NS: lgbm acc=0.500 thr=0.62 (train=1195, test=30) saved=INDUSTOWER_NS.joblib
+2025-09-14 01:22:38 [WARNING] train_models: MARUTI.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:38 [INFO] train_models: ✅ MARUTI.NS: lgbm acc=0.333 thr=0.64 (train=1195, test=30) saved=MARUTI_NS.joblib
+2025-09-14 01:22:40 [WARNING] train_models: HINDALCO.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:40 [INFO] train_models: ✅ HINDALCO.NS: lgbm acc=0.500 thr=0.65 (train=1195, test=30) saved=HINDALCO_NS.joblib
+2025-09-14 01:22:43 [WARNING] train_models: MAXHEALTH.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:43 [INFO] train_models: ✅ MAXHEALTH.NS: lgbm acc=0.633 thr=0.47 (train=1195, test=30) saved=MAXHEALTH_NS.joblib
+2025-09-14 01:22:45 [WARNING] train_models: POLYCAB.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:45 [INFO] train_models: ✅ POLYCAB.NS: lgbm acc=0.367 thr=0.63 (train=1195, test=30) saved=POLYCAB_NS.joblib
+2025-09-14 01:22:48 [WARNING] train_models: DRREDDY.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:48 [INFO] train_models: ✅ DRREDDY.NS: lgbm acc=0.467 thr=0.65 (train=1195, test=30) saved=DRREDDY_NS.joblib
+2025-09-14 01:22:51 [WARNING] train_models: TATAMOTORS.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:51 [INFO] train_models: ✅ TATAMOTORS.NS: lgbm acc=0.567 thr=0.49 (train=1195, test=30) saved=TATAMOTORS_NS.joblib
+2025-09-14 01:22:53 [WARNING] train_models: CANFINHOME.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:53 [INFO] train_models: ✅ CANFINHOME.NS: lgbm acc=0.667 thr=0.61 (train=1195, test=30) saved=CANFINHOME_NS.joblib
+2025-09-14 01:22:56 [WARNING] train_models: INFY.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:56 [INFO] train_models: ✅ INFY.NS: lgbm acc=0.533 thr=0.70 (train=1195, test=30) saved=INFY_NS.joblib
+2025-09-14 01:22:59 [WARNING] train_models: AUROPHARMA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:22:59 [INFO] train_models: ✅ AUROPHARMA.NS: lgbm acc=0.600 thr=0.49 (train=1195, test=30) saved=AUROPHARMA_NS.joblib
+2025-09-14 01:23:02 [WARNING] train_models: PRESTIGE.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:02 [INFO] train_models: ✅ PRESTIGE.NS: lgbm acc=0.600 thr=0.51 (train=1195, test=30) saved=PRESTIGE_NS.joblib
+2025-09-14 01:23:04 [WARNING] train_models: IRCTC.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:04 [INFO] train_models: ✅ IRCTC.NS: lgbm acc=0.533 thr=0.69 (train=1195, test=30) saved=IRCTC_NS.joblib
+2025-09-14 01:23:07 [WARNING] train_models: PETRONET.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:07 [INFO] train_models: ✅ PETRONET.NS: lgbm acc=0.567 thr=0.62 (train=1195, test=30) saved=PETRONET_NS.joblib
+2025-09-14 01:23:10 [WARNING] train_models: TIINDIA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:10 [INFO] train_models: ✅ TIINDIA.NS: lgbm acc=0.500 thr=0.64 (train=1195, test=30) saved=TIINDIA_NS.joblib
+2025-09-14 01:23:13 [WARNING] train_models: NESTLEIND.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:13 [INFO] train_models: ✅ NESTLEIND.NS: lgbm acc=0.400 thr=0.67 (train=1195, test=30) saved=NESTLEIND_NS.joblib
+2025-09-14 01:23:16 [WARNING] train_models: PIIND.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:16 [INFO] train_models: ✅ PIIND.NS: lgbm acc=0.633 thr=0.58 (train=1195, test=30) saved=PIIND_NS.joblib
+2025-09-14 01:23:19 [WARNING] train_models: ULTRACEMCO.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:19 [INFO] train_models: ✅ ULTRACEMCO.NS: lgbm acc=0.533 thr=0.63 (train=1195, test=30) saved=ULTRACEMCO_NS.joblib
+2025-09-14 01:23:21 [WARNING] train_models: NYKAA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:21 [INFO] train_models: ✅ NYKAA.NS: lgbm acc=0.500 thr=0.45 (train=908, test=30) saved=NYKAA_NS.joblib
+2025-09-14 01:23:24 [WARNING] train_models: ARVIND.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:24 [INFO] train_models: ✅ ARVIND.NS: lgbm acc=0.467 thr=0.48 (train=1195, test=30) saved=ARVIND_NS.joblib
+2025-09-14 01:23:27 [WARNING] train_models: TATACOMM.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:27 [INFO] train_models: ✅ TATACOMM.NS: lgbm acc=0.467 thr=0.48 (train=1195, test=30) saved=TATACOMM_NS.joblib
+2025-09-14 01:23:29 [WARNING] train_models: METROPOLIS.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:29 [INFO] train_models: ✅ METROPOLIS.NS: lgbm acc=0.500 thr=0.70 (train=1195, test=30) saved=METROPOLIS_NS.joblib
+2025-09-14 01:23:32 [WARNING] train_models: TORNTPHARM.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:32 [INFO] train_models: ✅ TORNTPHARM.NS: lgbm acc=0.600 thr=0.66 (train=1195, test=30) saved=TORNTPHARM_NS.joblib
+2025-09-14 01:23:35 [WARNING] train_models: NHPC.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:35 [INFO] train_models: ✅ NHPC.NS: lgbm acc=0.467 thr=0.49 (train=1195, test=30) saved=NHPC_NS.joblib
+2025-09-14 01:23:38 [WARNING] train_models: ICICIBANK.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:38 [INFO] train_models: ✅ ICICIBANK.NS: lgbm acc=0.533 thr=0.68 (train=1195, test=30) saved=ICICIBANK_NS.joblib
+2025-09-14 01:23:41 [WARNING] train_models: SBIN.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:41 [INFO] train_models: ✅ SBIN.NS: lgbm acc=0.467 thr=0.59 (train=1195, test=30) saved=SBIN_NS.joblib
+2025-09-14 01:23:44 [WARNING] train_models: CIPLA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:44 [INFO] train_models: ✅ CIPLA.NS: lgbm acc=0.500 thr=0.65 (train=1195, test=30) saved=CIPLA_NS.joblib
+2025-09-14 01:23:46 [WARNING] train_models: NTPC.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:46 [INFO] train_models: ✅ NTPC.NS: lgbm acc=0.667 thr=0.56 (train=1195, test=30) saved=NTPC_NS.joblib
+2025-09-14 01:23:49 [WARNING] train_models: HINDUNILVR.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:49 [INFO] train_models: ✅ HINDUNILVR.NS: lgbm acc=0.533 thr=0.63 (train=1195, test=30) saved=HINDUNILVR_NS.joblib
+2025-09-14 01:23:52 [WARNING] train_models: PERSISTENT.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:52 [INFO] train_models: ✅ PERSISTENT.NS: lgbm acc=0.733 thr=0.66 (train=1195, test=30) saved=PERSISTENT_NS.joblib
+2025-09-14 01:23:55 [WARNING] train_models: HCLTECH.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:55 [INFO] train_models: ✅ HCLTECH.NS: lgbm acc=0.600 thr=0.50 (train=1195, test=30) saved=HCLTECH_NS.joblib
+2025-09-14 01:23:57 [WARNING] train_models: OIL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:23:57 [INFO] train_models: ✅ OIL.NS: lgbm acc=0.500 thr=0.45 (train=1195, test=30) saved=OIL_NS.joblib
+2025-09-14 01:24:00 [WARNING] train_models: HEROMOTOCO.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:00 [INFO] train_models: ✅ HEROMOTOCO.NS: lgbm acc=0.433 thr=0.63 (train=1195, test=30) saved=HEROMOTOCO_NS.joblib
+2025-09-14 01:24:03 [WARNING] train_models: BAJAJ-AUTO.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:03 [INFO] train_models: ✅ BAJAJ-AUTO.NS: lgbm acc=0.533 thr=0.46 (train=1195, test=30) saved=BAJAJ-AUTO_NS.joblib
+2025-09-14 01:24:05 [WARNING] train_models: ASHOKLEY.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:05 [INFO] train_models: ✅ ASHOKLEY.NS: lgbm acc=0.533 thr=0.70 (train=1195, test=30) saved=ASHOKLEY_NS.joblib
+2025-09-14 01:24:08 [WARNING] train_models: M&M.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:08 [INFO] train_models: ✅ M&M.NS: lgbm acc=0.533 thr=0.70 (train=1195, test=30) saved=M&M_NS.joblib
+2025-09-14 01:24:15 [WARNING] train_models: ICICIPRULI.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:15 [INFO] train_models: ✅ ICICIPRULI.NS: lgbm acc=0.533 thr=0.69 (train=1195, test=30) saved=ICICIPRULI_NS.joblib
+2025-09-14 01:24:21 [WARNING] train_models: BHARATFORG.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:21 [INFO] train_models: ✅ BHARATFORG.NS: lgbm acc=0.567 thr=0.47 (train=1195, test=30) saved=BHARATFORG_NS.joblib
+2025-09-14 01:24:26 [WARNING] train_models: GOKEX.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:26 [INFO] train_models: ✅ GOKEX.NS: lgbm acc=0.400 thr=0.58 (train=1195, test=30) saved=GOKEX_NS.joblib
+2025-09-14 01:24:30 [WARNING] train_models: ZYDUSLIFE.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:30 [INFO] train_models: ✅ ZYDUSLIFE.NS: lgbm acc=0.300 thr=0.66 (train=1195, test=30) saved=ZYDUSLIFE_NS.joblib
+2025-09-14 01:24:32 [WARNING] train_models: HDFCBANK.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:32 [INFO] train_models: ✅ HDFCBANK.NS: lgbm acc=0.567 thr=0.63 (train=1195, test=30) saved=HDFCBANK_NS.joblib
+2025-09-14 01:24:35 [WARNING] train_models: RELIANCE.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:35 [INFO] train_models: ✅ RELIANCE.NS: lgbm acc=0.400 thr=0.60 (train=1195, test=30) saved=RELIANCE_NS.joblib
+2025-09-14 01:24:38 [WARNING] train_models: SUNPHARMA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:38 [INFO] train_models: ✅ SUNPHARMA.NS: lgbm acc=0.333 thr=0.55 (train=1195, test=30) saved=SUNPHARMA_NS.joblib
+2025-09-14 01:24:41 [WARNING] train_models: SUZLON.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:41 [INFO] train_models: ✅ SUZLON.NS: lgbm acc=0.600 thr=0.68 (train=1195, test=30) saved=SUZLON_NS.joblib
+2025-09-14 01:24:43 [WARNING] train_models: IEX.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:43 [INFO] train_models: ✅ IEX.NS: lgbm acc=0.500 thr=0.68 (train=1195, test=30) saved=IEX_NS.joblib
+2025-09-14 01:24:46 [WARNING] train_models: INDHOTEL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:46 [INFO] train_models: ✅ INDHOTEL.NS: lgbm acc=0.567 thr=0.69 (train=1195, test=30) saved=INDHOTEL_NS.joblib
+2025-09-14 01:24:49 [WARNING] train_models: BALKRISIND.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:49 [INFO] train_models: ✅ BALKRISIND.NS: lgbm acc=0.533 thr=0.68 (train=1195, test=30) saved=BALKRISIND_NS.joblib
+2025-09-14 01:24:52 [WARNING] train_models: EICHERMOT.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:52 [INFO] train_models: ✅ EICHERMOT.NS: lgbm acc=0.433 thr=0.45 (train=1195, test=30) saved=EICHERMOT_NS.joblib
+2025-09-14 01:24:55 [WARNING] train_models: ALKEM.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:55 [INFO] train_models: ✅ ALKEM.NS: lgbm acc=0.500 thr=0.52 (train=1195, test=30) saved=ALKEM_NS.joblib
+2025-09-14 01:24:58 [WARNING] train_models: TORNTPOWER.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:24:58 [INFO] train_models: ✅ TORNTPOWER.NS: lgbm acc=0.500 thr=0.70 (train=1195, test=30) saved=TORNTPOWER_NS.joblib
+2025-09-14 01:25:00 [WARNING] train_models: LODHA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:00 [INFO] train_models: ✅ LODHA.NS: lgbm acc=0.533 thr=0.70 (train=1048, test=30) saved=LODHA_NS.joblib
+2025-09-14 01:25:03 [WARNING] train_models: FEDERALBNK.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:03 [INFO] train_models: ✅ FEDERALBNK.NS: lgbm acc=0.567 thr=0.69 (train=1195, test=30) saved=FEDERALBNK_NS.joblib
+2025-09-14 01:25:06 [WARNING] train_models: CONCOR.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:06 [INFO] train_models: ✅ CONCOR.NS: lgbm acc=0.567 thr=0.70 (train=1195, test=30) saved=CONCOR_NS.joblib
+2025-09-14 01:25:09 [WARNING] train_models: BPCL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:09 [INFO] train_models: ✅ BPCL.NS: lgbm acc=0.667 thr=0.59 (train=1195, test=30) saved=BPCL_NS.joblib
+2025-09-14 01:25:12 [WARNING] train_models: PHOENIXLTD.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:12 [INFO] train_models: ✅ PHOENIXLTD.NS: lgbm acc=0.567 thr=0.52 (train=1195, test=30) saved=PHOENIXLTD_NS.joblib
+2025-09-14 01:25:15 [WARNING] train_models: GRASIM.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:15 [INFO] train_models: ✅ GRASIM.NS: lgbm acc=0.533 thr=0.45 (train=1195, test=30) saved=GRASIM_NS.joblib
+2025-09-14 01:25:19 [WARNING] train_models: AIAENG.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:19 [INFO] train_models: ✅ AIAENG.NS: lgbm acc=0.400 thr=0.64 (train=1195, test=30) saved=AIAENG_NS.joblib
+2025-09-14 01:25:21 [WARNING] train_models: BAJFINANCE.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:21 [INFO] train_models: ✅ BAJFINANCE.NS: lgbm acc=0.300 thr=0.57 (train=1195, test=30) saved=BAJFINANCE_NS.joblib
+2025-09-14 01:25:25 [WARNING] train_models: AXISBANK.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:25 [INFO] train_models: ✅ AXISBANK.NS: lgbm acc=0.367 thr=0.70 (train=1195, test=30) saved=AXISBANK_NS.joblib
+2025-09-14 01:25:28 [WARNING] train_models: DIXON.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:28 [INFO] train_models: ✅ DIXON.NS: lgbm acc=0.700 thr=0.58 (train=1195, test=30) saved=DIXON_NS.joblib
+2025-09-14 01:25:32 [WARNING] train_models: CROMPTON.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:32 [INFO] train_models: ✅ CROMPTON.NS: lgbm acc=0.600 thr=0.70 (train=1195, test=30) saved=CROMPTON_NS.joblib
+2025-09-14 01:25:35 [WARNING] train_models: KOTAKBANK.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:35 [INFO] train_models: ✅ KOTAKBANK.NS: lgbm acc=0.567 thr=0.58 (train=1195, test=30) saved=KOTAKBANK_NS.joblib
+2025-09-14 01:25:38 [WARNING] train_models: ADANIENT.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:38 [INFO] train_models: ✅ ADANIENT.NS: lgbm acc=0.433 thr=0.48 (train=1195, test=30) saved=ADANIENT_NS.joblib
+2025-09-14 01:25:39 [WARNING] train_models: IREDA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:39 [INFO] train_models: ✅ IREDA.NS: lgbm acc=0.500 thr=0.59 (train=400, test=30) saved=IREDA_NS.joblib
+2025-09-14 01:25:42 [WARNING] train_models: TATASTEEL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:42 [INFO] train_models: ✅ TATASTEEL.NS: lgbm acc=0.400 thr=0.56 (train=1195, test=30) saved=TATASTEEL_NS.joblib
+2025-09-14 01:25:45 [WARNING] train_models: CUMMINSIND.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:45 [INFO] train_models: ✅ CUMMINSIND.NS: lgbm acc=0.467 thr=0.70 (train=1195, test=30) saved=CUMMINSIND_NS.joblib
+2025-09-14 01:25:48 [WARNING] train_models: IDFCFIRSTB.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:48 [INFO] train_models: ✅ IDFCFIRSTB.NS: lgbm acc=0.500 thr=0.57 (train=1195, test=30) saved=IDFCFIRSTB_NS.joblib
+2025-09-14 01:25:51 [WARNING] train_models: PGEL.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:51 [INFO] train_models: ✅ PGEL.NS: lgbm acc=0.467 thr=0.55 (train=1195, test=30) saved=PGEL_NS.joblib
+2025-09-14 01:25:54 [WARNING] train_models: NEWGEN.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:54 [INFO] train_models: ✅ NEWGEN.NS: lgbm acc=0.400 thr=0.49 (train=1195, test=30) saved=NEWGEN_NS.joblib
+2025-09-14 01:25:57 [WARNING] train_models: GUJGASLTD.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:57 [INFO] train_models: ✅ GUJGASLTD.NS: lgbm acc=0.567 thr=0.70 (train=1195, test=30) saved=GUJGASLTD_NS.joblib
+2025-09-14 01:25:59 [WARNING] train_models: DEEPAKNTR.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:25:59 [INFO] train_models: ✅ DEEPAKNTR.NS: lgbm acc=0.467 thr=0.48 (train=1195, test=30) saved=DEEPAKNTR_NS.joblib
+2025-09-14 01:26:02 [WARNING] train_models: ASIANPAINT.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:02 [INFO] train_models: ✅ ASIANPAINT.NS: lgbm acc=0.500 thr=0.46 (train=1195, test=30) saved=ASIANPAINT_NS.joblib
+2025-09-14 01:26:05 [WARNING] train_models: WIPRO.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:05 [INFO] train_models: ✅ WIPRO.NS: lgbm acc=0.567 thr=0.56 (train=1195, test=30) saved=WIPRO_NS.joblib
+2025-09-14 01:26:07 [WARNING] train_models: BANKBARODA.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:07 [INFO] train_models: ✅ BANKBARODA.NS: lgbm acc=0.467 thr=0.70 (train=1195, test=30) saved=BANKBARODA_NS.joblib
+2025-09-14 01:26:10 [WARNING] train_models: TCS.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:10 [INFO] train_models: ✅ TCS.NS: lgbm acc=0.433 thr=0.64 (train=1195, test=30) saved=TCS_NS.joblib
+2025-09-14 01:26:13 [WARNING] train_models: LUPIN.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:13 [INFO] train_models: ✅ LUPIN.NS: lgbm acc=0.600 thr=0.47 (train=1195, test=30) saved=LUPIN_NS.joblib
+2025-09-14 01:26:16 [WARNING] train_models: LTIM.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:16 [INFO] train_models: ✅ LTIM.NS: lgbm acc=0.400 thr=0.66 (train=1195, test=30) saved=LTIM_NS.joblib
+2025-09-14 01:26:19 [WARNING] train_models: MUTHOOTFIN.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:19 [INFO] train_models: ✅ MUTHOOTFIN.NS: lgbm acc=0.633 thr=0.53 (train=1195, test=30) saved=MUTHOOTFIN_NS.joblib
+2025-09-14 01:26:22 [WARNING] train_models: HINDPETRO.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:22 [INFO] train_models: ✅ HINDPETRO.NS: lgbm acc=0.400 thr=0.47 (train=1195, test=30) saved=HINDPETRO_NS.joblib
+2025-09-14 01:26:26 [WARNING] train_models: SUPREMEIND.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:26 [INFO] train_models: ✅ SUPREMEIND.NS: lgbm acc=0.567 thr=0.69 (train=1195, test=30) saved=SUPREMEIND_NS.joblib
+2025-09-14 01:26:29 [WARNING] train_models: TATACONSUM.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:29 [INFO] train_models: ✅ TATACONSUM.NS: lgbm acc=0.400 thr=0.49 (train=1195, test=30) saved=TATACONSUM_NS.joblib
+2025-09-14 01:26:32 [WARNING] train_models: AFFLE.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:32 [INFO] train_models: ✅ AFFLE.NS: lgbm acc=0.533 thr=0.69 (train=1195, test=30) saved=AFFLE_NS.joblib
+2025-09-14 01:26:34 [WARNING] train_models: COFORGE.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:34 [INFO] train_models: ✅ COFORGE.NS: lgbm acc=0.333 thr=0.51 (train=1195, test=30) saved=COFORGE_NS.joblib
+2025-09-14 01:26:37 [WARNING] train_models: HDFCLIFE.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:37 [INFO] train_models: ✅ HDFCLIFE.NS: lgbm acc=0.567 thr=0.45 (train=1195, test=30) saved=HDFCLIFE_NS.joblib
+2025-09-14 01:26:39 [WARNING] train_models: GLAND.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:39 [INFO] train_models: ✅ GLAND.NS: lgbm acc=0.533 thr=0.47 (train=1147, test=30) saved=GLAND_NS.joblib
+2025-09-14 01:26:42 [WARNING] train_models: TATAPOWER.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:42 [INFO] train_models: ✅ TATAPOWER.NS: lgbm acc=0.467 thr=0.49 (train=1195, test=30) saved=TATAPOWER_NS.joblib
+2025-09-14 01:26:45 [WARNING] train_models: SBICARD.NS: calibration failed → PurgedTimeSeriesSplit.split() takes 2 positional arguments but 3 were given
+2025-09-14 01:26:45 [INFO] train_models: ✅ SBICARD.NS: lgbm acc=0.367 thr=0.57 (train=1195, test=30) saved=SBICARD_NS.joblib
+2025-09-14 01:26:45 [INFO] train_models: ==== Training completed ====

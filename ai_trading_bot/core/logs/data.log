@@ -1,0 +1,245 @@
+2025-09-14 01:18:26 [INFO] data: Fetching data for 121 tickers...
+2025-09-14 01:18:28 [INFO] data: AFFLE.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: SBICARD.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: GODREJPROP.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: INDUSTOWER.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: BAJFINANCE.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: UPL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: LT.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: NTPC.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: AUROPHARMA.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: NEWGEN.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: HINDALCO.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: TATASTEEL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: GUJGASLTD.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: TATAELXSI.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: BPCL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: FEDERALBNK.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: PRESTIGE.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: BHARATFORG.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: VOLTAS.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: PGEL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: ASHOKLEY.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: OIL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: BANKBARODA.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: HCLTECH.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: HDFCLIFE.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: TATACOMM.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: BAJAJ-AUTO.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: METROPOLIS.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: OBEROIRLTY.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: ASIANPAINT.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: CONCOR.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: BSE.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: MAXHEALTH.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: SRF.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:28 [INFO] data: MARUTI.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: CROMPTON.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: COALINDIA.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: IREDA.NS: [DRY RUN] downloaded 444 rows
+2025-09-14 01:18:29 [INFO] data: DEEPAKNTR.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: JSWSTEEL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: LTIM.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: ICICIPRULI.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: PETRONET.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: SUNPHARMA.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: PNB.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: SUZLON.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: HDFCBANK.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: COFORGE.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: ADANIPORTS.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: NYKAA.NS: [DRY RUN] downloaded 952 rows
+2025-09-14 01:18:29 [INFO] data: EICHERMOT.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: SBIN.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: INDUSINDBK.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: LODHA.NS: [DRY RUN] downloaded 1092 rows
+2025-09-14 01:18:29 [INFO] data: LAURUSLABS.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: BRITANNIA.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: ITC.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: TITAN.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: ICICIBANK.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: TIINDIA.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: BHARTIARTL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: DIVISLAB.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: MRF.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: INFY.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: NESTLEIND.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: LUPIN.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: HDFCAMC.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: PVRINOX.NS: [DRY RUN] downloaded 684 rows
+2025-09-14 01:18:29 [INFO] data: NAVINFLUOR.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: DRREDDY.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: TATACONSUM.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: DIXON.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: IRCTC.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: ADANIENT.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: IEX.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: CUMMINSIND.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: KOTAKBANK.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: M&M.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: BALKRISIND.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: ZYDUSLIFE.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: TORNTPOWER.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: PHOENIXLTD.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: AXISBANK.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:29 [INFO] data: AIAENG.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: TECHM.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: POWERGRID.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: PIIND.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: INDHOTEL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: CANFINHOME.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: ARVIND.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: IDFCFIRSTB.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: TATAPOWER.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: GOKEX.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: HINDUNILVR.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: ALKEM.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: RELIANCE.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: GLAND.NS: [DRY RUN] downloaded 1191 rows
+2025-09-14 01:18:30 [INFO] data: SUPREMEIND.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: YESBANK.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: OFSS.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: MPHASIS.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: CIPLA.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: PERSISTENT.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: ULTRACEMCO.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: ASTRAL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: NHPC.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: TATAMOTORS.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: TCS.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: TORNTPHARM.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: COLPAL.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: IDEA.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: ONGC.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: NMDC.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: BAJAJFINSV.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: GRASIM.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: MARICO.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: WIPRO.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: HEROMOTOCO.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: HINDPETRO.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: MUTHOOTFIN.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: POLYCAB.NS: [DRY RUN] downloaded 1239 rows
+2025-09-14 01:18:30 [INFO] data: Data fetch complete. Success: 121, Failed: 0
+2025-09-14 01:18:30 [INFO] data: ==== Data ingestion completed ====
+2025-09-14 01:20:57 [INFO] data: BSE.NS: downloaded 1239 rows (saved to BSE_NS_1d.csv)
+2025-09-14 01:20:59 [INFO] data: INDUSINDBK.NS: downloaded 1239 rows (saved to INDUSINDBK_NS_1d.csv)
+2025-09-14 01:21:02 [INFO] data: MPHASIS.NS: downloaded 1239 rows (saved to MPHASIS_NS_1d.csv)
+2025-09-14 01:21:05 [INFO] data: BAJAJFINSV.NS: downloaded 1239 rows (saved to BAJAJFINSV_NS_1d.csv)
+2025-09-14 01:21:07 [INFO] data: PVRINOX.NS: downloaded 684 rows (saved to PVRINOX_NS_1d.csv)
+2025-09-14 01:21:09 [INFO] data: ASTRAL.NS: downloaded 1239 rows (saved to ASTRAL_NS_1d.csv)
+2025-09-14 01:21:12 [INFO] data: BRITANNIA.NS: downloaded 1239 rows (saved to BRITANNIA_NS_1d.csv)
+2025-09-14 01:21:14 [INFO] data: IDEA.NS: downloaded 1239 rows (saved to IDEA_NS_1d.csv)
+2025-09-14 01:21:17 [INFO] data: LAURUSLABS.NS: downloaded 1239 rows (saved to LAURUSLABS_NS_1d.csv)
+2025-09-14 01:21:20 [INFO] data: NMDC.NS: downloaded 1239 rows (saved to NMDC_NS_1d.csv)
+2025-09-14 01:21:23 [INFO] data: TATAELXSI.NS: downloaded 1239 rows (saved to TATAELXSI_NS_1d.csv)
+2025-09-14 01:21:25 [INFO] data: MARICO.NS: downloaded 1239 rows (saved to MARICO_NS_1d.csv)
+2025-09-14 01:21:28 [INFO] data: SRF.NS: downloaded 1239 rows (saved to SRF_NS_1d.csv)
+2025-09-14 01:21:30 [INFO] data: BHARTIARTL.NS: downloaded 1239 rows (saved to BHARTIARTL_NS_1d.csv)
+2025-09-14 01:21:33 [INFO] data: JSWSTEEL.NS: downloaded 1239 rows (saved to JSWSTEEL_NS_1d.csv)
+2025-09-14 01:21:36 [INFO] data: TITAN.NS: downloaded 1239 rows (saved to TITAN_NS_1d.csv)
+2025-09-14 01:21:39 [INFO] data: ONGC.NS: downloaded 1239 rows (saved to ONGC_NS_1d.csv)
+2025-09-14 01:21:41 [INFO] data: YESBANK.NS: downloaded 1239 rows (saved to YESBANK_NS_1d.csv)
+2025-09-14 01:21:44 [INFO] data: COALINDIA.NS: downloaded 1239 rows (saved to COALINDIA_NS_1d.csv)
+2025-09-14 01:21:47 [INFO] data: OFSS.NS: downloaded 1239 rows (saved to OFSS_NS_1d.csv)
+2025-09-14 01:21:50 [INFO] data: NAVINFLUOR.NS: downloaded 1239 rows (saved to NAVINFLUOR_NS_1d.csv)
+2025-09-14 01:21:52 [INFO] data: PNB.NS: downloaded 1239 rows (saved to PNB_NS_1d.csv)
+2025-09-14 01:21:55 [INFO] data: POWERGRID.NS: downloaded 1239 rows (saved to POWERGRID_NS_1d.csv)
+2025-09-14 01:21:58 [INFO] data: ADANIPORTS.NS: downloaded 1239 rows (saved to ADANIPORTS_NS_1d.csv)
+2025-09-14 01:22:00 [INFO] data: COLPAL.NS: downloaded 1239 rows (saved to COLPAL_NS_1d.csv)
+2025-09-14 01:22:03 [INFO] data: DIVISLAB.NS: downloaded 1239 rows (saved to DIVISLAB_NS_1d.csv)
+2025-09-14 01:22:06 [INFO] data: HDFCAMC.NS: downloaded 1239 rows (saved to HDFCAMC_NS_1d.csv)
+2025-09-14 01:22:09 [INFO] data: LT.NS: downloaded 1239 rows (saved to LT_NS_1d.csv)
+2025-09-14 01:22:12 [INFO] data: UPL.NS: downloaded 1239 rows (saved to UPL_NS_1d.csv)
+2025-09-14 01:22:15 [INFO] data: VOLTAS.NS: downloaded 1239 rows (saved to VOLTAS_NS_1d.csv)
+2025-09-14 01:22:18 [INFO] data: TECHM.NS: downloaded 1239 rows (saved to TECHM_NS_1d.csv)
+2025-09-14 01:22:20 [INFO] data: OBEROIRLTY.NS: downloaded 1239 rows (saved to OBEROIRLTY_NS_1d.csv)
+2025-09-14 01:22:24 [INFO] data: ITC.NS: downloaded 1239 rows (saved to ITC_NS_1d.csv)
+2025-09-14 01:22:27 [INFO] data: MRF.NS: downloaded 1239 rows (saved to MRF_NS_1d.csv)
+2025-09-14 01:22:29 [INFO] data: GODREJPROP.NS: downloaded 1239 rows (saved to GODREJPROP_NS_1d.csv)
+2025-09-14 01:22:32 [INFO] data: INDUSTOWER.NS: downloaded 1239 rows (saved to INDUSTOWER_NS_1d.csv)
+2025-09-14 01:22:35 [INFO] data: MARUTI.NS: downloaded 1239 rows (saved to MARUTI_NS_1d.csv)
+2025-09-14 01:22:38 [INFO] data: HINDALCO.NS: downloaded 1239 rows (saved to HINDALCO_NS_1d.csv)
+2025-09-14 01:22:40 [INFO] data: MAXHEALTH.NS: downloaded 1239 rows (saved to MAXHEALTH_NS_1d.csv)
+2025-09-14 01:22:43 [INFO] data: POLYCAB.NS: downloaded 1239 rows (saved to POLYCAB_NS_1d.csv)
+2025-09-14 01:22:45 [INFO] data: DRREDDY.NS: downloaded 1239 rows (saved to DRREDDY_NS_1d.csv)
+2025-09-14 01:22:48 [INFO] data: TATAMOTORS.NS: downloaded 1239 rows (saved to TATAMOTORS_NS_1d.csv)
+2025-09-14 01:22:51 [INFO] data: CANFINHOME.NS: downloaded 1239 rows (saved to CANFINHOME_NS_1d.csv)
+2025-09-14 01:22:53 [INFO] data: INFY.NS: downloaded 1239 rows (saved to INFY_NS_1d.csv)
+2025-09-14 01:22:56 [INFO] data: AUROPHARMA.NS: downloaded 1239 rows (saved to AUROPHARMA_NS_1d.csv)
+2025-09-14 01:22:59 [INFO] data: PRESTIGE.NS: downloaded 1239 rows (saved to PRESTIGE_NS_1d.csv)
+2025-09-14 01:23:02 [INFO] data: IRCTC.NS: downloaded 1239 rows (saved to IRCTC_NS_1d.csv)
+2025-09-14 01:23:04 [INFO] data: PETRONET.NS: downloaded 1239 rows (saved to PETRONET_NS_1d.csv)
+2025-09-14 01:23:07 [INFO] data: TIINDIA.NS: downloaded 1239 rows (saved to TIINDIA_NS_1d.csv)
+2025-09-14 01:23:10 [INFO] data: NESTLEIND.NS: downloaded 1239 rows (saved to NESTLEIND_NS_1d.csv)
+2025-09-14 01:23:13 [INFO] data: PIIND.NS: downloaded 1239 rows (saved to PIIND_NS_1d.csv)
+2025-09-14 01:23:16 [INFO] data: ULTRACEMCO.NS: downloaded 1239 rows (saved to ULTRACEMCO_NS_1d.csv)
+2025-09-14 01:23:19 [INFO] data: NYKAA.NS: downloaded 952 rows (saved to NYKAA_NS_1d.csv)
+2025-09-14 01:23:21 [INFO] data: ARVIND.NS: downloaded 1239 rows (saved to ARVIND_NS_1d.csv)
+2025-09-14 01:23:24 [INFO] data: TATACOMM.NS: downloaded 1239 rows (saved to TATACOMM_NS_1d.csv)
+2025-09-14 01:23:27 [INFO] data: METROPOLIS.NS: downloaded 1239 rows (saved to METROPOLIS_NS_1d.csv)
+2025-09-14 01:23:30 [INFO] data: TORNTPHARM.NS: downloaded 1239 rows (saved to TORNTPHARM_NS_1d.csv)
+2025-09-14 01:23:32 [INFO] data: NHPC.NS: downloaded 1239 rows (saved to NHPC_NS_1d.csv)
+2025-09-14 01:23:36 [INFO] data: ICICIBANK.NS: downloaded 1239 rows (saved to ICICIBANK_NS_1d.csv)
+2025-09-14 01:23:39 [INFO] data: SBIN.NS: downloaded 1239 rows (saved to SBIN_NS_1d.csv)
+2025-09-14 01:23:41 [INFO] data: CIPLA.NS: downloaded 1239 rows (saved to CIPLA_NS_1d.csv)
+2025-09-14 01:23:44 [INFO] data: NTPC.NS: downloaded 1239 rows (saved to NTPC_NS_1d.csv)
+2025-09-14 01:23:47 [INFO] data: HINDUNILVR.NS: downloaded 1239 rows (saved to HINDUNILVR_NS_1d.csv)
+2025-09-14 01:23:49 [INFO] data: PERSISTENT.NS: downloaded 1239 rows (saved to PERSISTENT_NS_1d.csv)
+2025-09-14 01:23:52 [INFO] data: HCLTECH.NS: downloaded 1239 rows (saved to HCLTECH_NS_1d.csv)
+2025-09-14 01:23:55 [INFO] data: OIL.NS: downloaded 1239 rows (saved to OIL_NS_1d.csv)
+2025-09-14 01:23:58 [INFO] data: HEROMOTOCO.NS: downloaded 1239 rows (saved to HEROMOTOCO_NS_1d.csv)
+2025-09-14 01:24:00 [INFO] data: BAJAJ-AUTO.NS: downloaded 1239 rows (saved to BAJAJ-AUTO_NS_1d.csv)
+2025-09-14 01:24:03 [INFO] data: ASHOKLEY.NS: downloaded 1239 rows (saved to ASHOKLEY_NS_1d.csv)
+2025-09-14 01:24:06 [INFO] data: M&M.NS: downloaded 1239 rows (saved to M&M_NS_1d.csv)
+2025-09-14 01:24:08 [INFO] data: ICICIPRULI.NS: downloaded 1239 rows (saved to ICICIPRULI_NS_1d.csv)
+2025-09-14 01:24:15 [INFO] data: BHARATFORG.NS: downloaded 1239 rows (saved to BHARATFORG_NS_1d.csv)
+2025-09-14 01:24:21 [INFO] data: GOKEX.NS: downloaded 1239 rows (saved to GOKEX_NS_1d.csv)
+2025-09-14 01:24:26 [INFO] data: ZYDUSLIFE.NS: downloaded 1239 rows (saved to ZYDUSLIFE_NS_1d.csv)
+2025-09-14 01:24:30 [INFO] data: HDFCBANK.NS: downloaded 1239 rows (saved to HDFCBANK_NS_1d.csv)
+2025-09-14 01:24:33 [INFO] data: RELIANCE.NS: downloaded 1239 rows (saved to RELIANCE_NS_1d.csv)
+2025-09-14 01:24:36 [INFO] data: SUNPHARMA.NS: downloaded 1239 rows (saved to SUNPHARMA_NS_1d.csv)
+2025-09-14 01:24:38 [INFO] data: SUZLON.NS: downloaded 1239 rows (saved to SUZLON_NS_1d.csv)
+2025-09-14 01:24:41 [INFO] data: IEX.NS: downloaded 1239 rows (saved to IEX_NS_1d.csv)
+2025-09-14 01:24:44 [INFO] data: INDHOTEL.NS: downloaded 1239 rows (saved to INDHOTEL_NS_1d.csv)
+2025-09-14 01:24:47 [INFO] data: BALKRISIND.NS: downloaded 1239 rows (saved to BALKRISIND_NS_1d.csv)
+2025-09-14 01:24:49 [INFO] data: EICHERMOT.NS: downloaded 1239 rows (saved to EICHERMOT_NS_1d.csv)
+2025-09-14 01:24:52 [INFO] data: ALKEM.NS: downloaded 1239 rows (saved to ALKEM_NS_1d.csv)
+2025-09-14 01:24:55 [INFO] data: TORNTPOWER.NS: downloaded 1239 rows (saved to TORNTPOWER_NS_1d.csv)
+2025-09-14 01:24:58 [INFO] data: LODHA.NS: downloaded 1092 rows (saved to LODHA_NS_1d.csv)
+2025-09-14 01:25:01 [INFO] data: FEDERALBNK.NS: downloaded 1239 rows (saved to FEDERALBNK_NS_1d.csv)
+2025-09-14 01:25:04 [INFO] data: CONCOR.NS: downloaded 1239 rows (saved to CONCOR_NS_1d.csv)
+2025-09-14 01:25:07 [INFO] data: BPCL.NS: downloaded 1239 rows (saved to BPCL_NS_1d.csv)
+2025-09-14 01:25:09 [INFO] data: PHOENIXLTD.NS: downloaded 1239 rows (saved to PHOENIXLTD_NS_1d.csv)
+2025-09-14 01:25:12 [INFO] data: GRASIM.NS: downloaded 1239 rows (saved to GRASIM_NS_1d.csv)
+2025-09-14 01:25:15 [INFO] data: AIAENG.NS: downloaded 1239 rows (saved to AIAENG_NS_1d.csv)
+2025-09-14 01:25:19 [INFO] data: BAJFINANCE.NS: downloaded 1239 rows (saved to BAJFINANCE_NS_1d.csv)
+2025-09-14 01:25:22 [INFO] data: AXISBANK.NS: downloaded 1239 rows (saved to AXISBANK_NS_1d.csv)
+2025-09-14 01:25:25 [INFO] data: DIXON.NS: downloaded 1239 rows (saved to DIXON_NS_1d.csv)
+2025-09-14 01:25:28 [INFO] data: CROMPTON.NS: downloaded 1239 rows (saved to CROMPTON_NS_1d.csv)
+2025-09-14 01:25:32 [INFO] data: KOTAKBANK.NS: downloaded 1239 rows (saved to KOTAKBANK_NS_1d.csv)
+2025-09-14 01:25:35 [INFO] data: ADANIENT.NS: downloaded 1239 rows (saved to ADANIENT_NS_1d.csv)
+2025-09-14 01:25:38 [INFO] data: IREDA.NS: downloaded 444 rows (saved to IREDA_NS_1d.csv)
+2025-09-14 01:25:39 [INFO] data: TATASTEEL.NS: downloaded 1239 rows (saved to TATASTEEL_NS_1d.csv)
+2025-09-14 01:25:42 [INFO] data: CUMMINSIND.NS: downloaded 1239 rows (saved to CUMMINSIND_NS_1d.csv)
+2025-09-14 01:25:45 [INFO] data: IDFCFIRSTB.NS: downloaded 1239 rows (saved to IDFCFIRSTB_NS_1d.csv)
+2025-09-14 01:25:48 [INFO] data: PGEL.NS: downloaded 1239 rows (saved to PGEL_NS_1d.csv)
+2025-09-14 01:25:51 [INFO] data: NEWGEN.NS: downloaded 1239 rows (saved to NEWGEN_NS_1d.csv)
+2025-09-14 01:25:54 [INFO] data: GUJGASLTD.NS: downloaded 1239 rows (saved to GUJGASLTD_NS_1d.csv)
+2025-09-14 01:25:57 [INFO] data: DEEPAKNTR.NS: downloaded 1239 rows (saved to DEEPAKNTR_NS_1d.csv)
+2025-09-14 01:26:00 [INFO] data: ASIANPAINT.NS: downloaded 1239 rows (saved to ASIANPAINT_NS_1d.csv)
+2025-09-14 01:26:02 [INFO] data: WIPRO.NS: downloaded 1239 rows (saved to WIPRO_NS_1d.csv)
+2025-09-14 01:26:05 [INFO] data: BANKBARODA.NS: downloaded 1239 rows (saved to BANKBARODA_NS_1d.csv)
+2025-09-14 01:26:07 [INFO] data: TCS.NS: downloaded 1239 rows (saved to TCS_NS_1d.csv)
+2025-09-14 01:26:10 [INFO] data: LUPIN.NS: downloaded 1239 rows (saved to LUPIN_NS_1d.csv)
+2025-09-14 01:26:13 [INFO] data: LTIM.NS: downloaded 1239 rows (saved to LTIM_NS_1d.csv)
+2025-09-14 01:26:16 [INFO] data: MUTHOOTFIN.NS: downloaded 1239 rows (saved to MUTHOOTFIN_NS_1d.csv)
+2025-09-14 01:26:19 [INFO] data: HINDPETRO.NS: downloaded 1239 rows (saved to HINDPETRO_NS_1d.csv)
+2025-09-14 01:26:23 [INFO] data: SUPREMEIND.NS: downloaded 1239 rows (saved to SUPREMEIND_NS_1d.csv)
+2025-09-14 01:26:26 [INFO] data: TATACONSUM.NS: downloaded 1239 rows (saved to TATACONSUM_NS_1d.csv)
+2025-09-14 01:26:29 [INFO] data: AFFLE.NS: downloaded 1239 rows (saved to AFFLE_NS_1d.csv)
+2025-09-14 01:26:32 [INFO] data: COFORGE.NS: downloaded 1239 rows (saved to COFORGE_NS_1d.csv)
+2025-09-14 01:26:35 [INFO] data: HDFCLIFE.NS: downloaded 1239 rows (saved to HDFCLIFE_NS_1d.csv)
+2025-09-14 01:26:37 [INFO] data: GLAND.NS: downloaded 1191 rows (saved to GLAND_NS_1d.csv)
+2025-09-14 01:26:40 [INFO] data: TATAPOWER.NS: downloaded 1239 rows (saved to TATAPOWER_NS_1d.csv)
+2025-09-14 01:26:42 [INFO] data: SBICARD.NS: downloaded 1239 rows (saved to SBICARD_NS_1d.csv)
